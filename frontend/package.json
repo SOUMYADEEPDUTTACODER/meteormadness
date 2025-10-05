@@ -1,0 +1,41 @@
+{
+  "name": "frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "postinstall": "vite optimize"
+  },
+  "devDependencies": {
+    "@types/node": "^24.6.2",
+    "@types/react": "^18.3.25",
+    "@types/react-dom": "^18.3.7",
+    "@vitejs/plugin-react": "^4.7.0",
+    "typescript": "~5.9.3",
+    "vite": "^7.1.7"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.3.4",
+    "@mui/material": "^7.3.4",
+    "@react-three/drei": "^9.91.0",
+    "@react-three/fiber": "^9.3.0",
+    "@tanstack/react-router": "^1.132.33",
+    "@tanstack/router-devtools": "^1.132.33",
+    "animejs": "^4.2.0",
+    "d3": "^7.9.0",
+    "framer-motion": "^12.23.22",
+    "leaflet": "^1.9.4",
+    "plotly.js": "^3.1.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-leaflet": "^5.0.0",
+    "react-plotly.js": "^2.6.0",
+    "three": "^0.180.0",
+    "zustand": "^5.0.8"
+  }
+}

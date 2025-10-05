@@ -1,0 +1,35 @@
+{
+  "timestamp_utc": "2025-10-04T13:31:29.243825",
+  "asteroid": {
+    "id": "3542519",
+    "name": "(2010 PK9)",
+    "diameter_km": 0.258249791,
+    "velocity_kps_sample": 30.9354328365,
+    "approach_date": "1900-06-01",
+    "miss_distance_km_sample": 6664518.761844655
+  },
+  "orbit": {
+    "epoch_jd": 2461000.5,
+    "semi_major_axis_AU": 0.6820876828531942,
+    "eccentricity": 0.6758634748619897,
+    "inclination_deg": 12.58732502214531,
+    "raan_deg": 306.5059266984936,
+    "argp_deg": 195.6472531921637,
+    "true_anomaly_deg": -165.6216146001318
+  },
+  "energy": {
+    "joules": 1.2945600818302958e+19,
+    "megatons_tnt": 3094.0728533228867,
+    "risk_text": "Catastrophic (~3094.1 MT TNT) \u2014 comparable to Chicxulub"
+  },
+  "consequences": {
+    "impact_location": {
+      "lat": 28.5,
+      "lon": -89.5,
+      "elevation_m": 0.0
+    },
+    "crater_km": 28.836290472148136,
+    "seismic_mw": 9.541414807520413,
+    "tsunami_m_at_200km": 0.04241461751479063
+  }
+}

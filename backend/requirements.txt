@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+requests
+numpy
+poliastro
+astropy
+typing-extensions
+python-multipart
+python-dotenv
+

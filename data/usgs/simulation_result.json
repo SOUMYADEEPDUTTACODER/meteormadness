@@ -1,0 +1,48 @@
+{
+  "orbital_elements": {
+    "epoch_jd": 2461000.5,
+    "semi_major_axis_AU": 0.6820876828531942,
+    "eccentricity": 0.6758634748619897,
+    "inclination_deg": 12.58732502214531,
+    "raan_deg": 306.5059266984936,
+    "argp_deg": 195.6472531921637,
+    "true_anomaly_deg": -165.6216146001318
+  },
+  "heliocentric_coordinates": {
+    "current": [
+      0.9738730294223364,
+      -0.43499484944213407,
+      0.11700920273121299
+    ],
+    "future": [
+      0.8333235807353736,
+      -0.07238295038862325,
+      0.13995200975616118
+    ]
+  },
+  "kinetic_energy": 1.2945600818302958e+19,
+  "risk_classification": "Catastrophic (~3094.1 MT TNT) \u2014 comparable to Chicxulub",
+  "crater": {
+    "diameter_km": 28.836290472148136
+  },
+  "seismic": {
+    "magnitude_mw": 9.541414807520413
+  },
+  "tsunami": {
+    "height_m": 0.04241461751479063
+  },
+  "atmospheric_changes": {
+    "temperature_rise_C": 10,
+    "pressure_wave_hPa": 129.46,
+    "wind_speed_kmh": 300,
+    "location": [
+      28.5,
+      -89.5
+    ]
+  },
+  "impact_location": {
+    "lat": 28.5,
+    "lon": -89.5,
+    "elevation_m": 0.0
+  }
+}
